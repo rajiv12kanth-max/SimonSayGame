@@ -1,1 +1,2 @@
+# SimonSayGame  
 Developed an interactive Simon Says memory game using HTML, CSS, and JavaScript. Implemented random sequence generation with Math.random(), level progression, high score tracking, and dynamic DOM manipulation. This project demonstrates foundational front-end development skills, event handling, and game logic implementation in JavaScript.
