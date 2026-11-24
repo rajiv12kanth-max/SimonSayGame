@@ -14,8 +14,7 @@ document.addEventListener("keypress", function () {
   if (gameStarted == false) {
     gameStarted = true;
     console.log("game started")
-
-  levelUp();
+    levelUp();
 }})
 
 function levelUp() {
@@ -84,7 +83,7 @@ for (btn of allbtns) {
 }
 
 function reset() {
-  gameStarted == false;
+  gameStarted = false;
   userSeq = [];
   gameSeq = [];
   level = 0;
